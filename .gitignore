@@ -1,0 +1,32 @@
+*.sdf
+*.opensdf
+*.suo
+*.VC.*
+*.ipch
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.db
+*.TMP
+
+Saved/Autosaves
+Saved/*.png
+Saved/Backup
+Saved/Config/CrashReportClient
+
+# Visual Studio
+.vs/
+
+# Binary Files
+Binaries/
+
+# Builds
+
+# Compiled source files for the engine to use
+Intermediate/
+UnrealEngine/
+
+# Crash reporter binaries
+CRR/
+CRP/
